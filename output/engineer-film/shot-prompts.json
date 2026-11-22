@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "name": "01-childhood",
+    "params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "generate_audio": false,
+      "count": 1,
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "9d013e1a-8fc3-4fb7-8bb8-3ec2a7bd9088"
+        }
+      ],
+      "prompt": "THE JOURNEY OF AN ENGINEER, a single coherent premium stylized 3D animated short film. Animate the supplied scene reference faithfully; same protagonist facial geometry, eyes, eyebrows, nose, warm medium-brown skin, swept black hair, clothing and age throughout this shot. Reference image is absolute visual identity and environment source. Natural human animation, grounded feet, subtle breathing, accurate hands, coherent cloth inertia, physically realistic light and shadows. Smooth controlled camera acceleration/deceleration, restrained depth of field. No face morphing, costume changes, geometry warping, extra fingers, sudden jumps, logos, watermark, captions or generated title text. No dialogue or audio. Childhood, age 8. Continue from the image: light-blue school shirt, navy trousers, black shoes, navy backpack. Follow smoothly from behind as he walks toward distant school, backpack swaying gently with each grounded step. Golden sunlight through trees, foliage in soft breeze, a couple of distant birds. Innocent nostalgic hopeful mood. During final second, subtle warm flare softens frame to support a transition to the warm bedroom; preserve location, no spontaneous home appearing."
+    }
+  },
+  {
+    "index": 1,
+    "name": "02-first-love",
+    "params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "generate_audio": false,
+      "count": 1,
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "f1c6b80b-8d68-4bcd-a629-93d2f59f8c24"
+        }
+      ],
+      "prompt": "THE JOURNEY OF AN ENGINEER, a single coherent premium stylized 3D animated short film. Animate the supplied scene reference faithfully; same protagonist facial geometry, eyes, eyebrows, nose, warm medium-brown skin, swept black hair, clothing and age throughout this shot. Reference image is absolute visual identity and environment source. Natural human animation, grounded feet, subtle breathing, accurate hands, coherent cloth inertia, physically realistic light and shadows. Smooth controlled camera acceleration/deceleration, restrained depth of field. No face morphing, costume changes, geometry warping, extra fingers, sudden jumps, logos, watermark, captions or generated title text. No dialogue or audio. Childhood, age 8, same cream shirt as scene reference. Boy enthusiastically plays video game, right hand naturally on mouse and left on keyboard, fingers moving subtly, eyes following screen, genuine excited smile. Blue monitor glow and warm bedroom light. Camera slowly pushes toward his face then glides toward monitor; colorful game screen expands toward full frame. In final second game imagery smoothly simplifies into a restrained dark programming interface, no random symbols or face changes. This is a visual match transition to his future college interest."
+    }
+  },
+  {
+    "index": 2,
+    "name": "03-campus",
+    "params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 4,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "generate_audio": false,
+      "count": 1,
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "5fee3058-56a3-4fbd-ad22-ed7145498e3e"
+        }
+      ],
+      "prompt": "THE JOURNEY OF AN ENGINEER, a single coherent premium stylized 3D animated short film. Animate the supplied scene reference faithfully; same protagonist facial geometry, eyes, eyebrows, nose, warm medium-brown skin, swept black hair, clothing and age throughout this shot. Reference image is absolute visual identity and environment source. Natural human animation, grounded feet, subtle breathing, accurate hands, coherent cloth inertia, physically realistic light and shadows. Smooth controlled camera acceleration/deceleration, restrained depth of field. No face morphing, costume changes, geometry warping, extra fingers, sudden jumps, logos, watermark, captions or generated title text. No dialogue or audio. Age 20 engineering student, navy T-shirt, blue jeans, sneakers, backpack over one shoulder. Smooth rear three-quarter tracking shot as he walks naturally along campus path toward academic building, holds backpack strap, distant students move subtly. Ambition and discovery, bright morning light. End with entrance filling more of composition, maintain all architecture."
+    }
+  },
+  {
+    "index": 3,
+    "name": "04-learning",
+    "params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 4,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "generate_audio": false,
+      "count": 1,
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "c0e7db48-8828-493d-80a8-5798824b4ef6"
+        }
+      ],
+      "prompt": "THE JOURNEY OF AN ENGINEER, a single coherent premium stylized 3D animated short film. Animate the supplied scene reference faithfully; same protagonist facial geometry, eyes, eyebrows, nose, warm medium-brown skin, swept black hair, clothing and age throughout this shot. Reference image is absolute visual identity and environment source. Natural human animation, grounded feet, subtle breathing, accurate hands, coherent cloth inertia, physically realistic light and shadows. Smooth controlled camera acceleration/deceleration, restrained depth of field. No face morphing, costume changes, geometry warping, extra fingers, sudden jumps, logos, watermark, captions or generated title text. No dialogue or audio. Age 20 engineering student in university CS laboratory. Types naturally on laptop, pauses briefly to think with eyes fixed on code, resumes typing. Serious curious expression, no grin. Camera subtly arcs from near over-shoulder into readable three-quarter focused face, keeping laptop and hands believable. Soft daylight and monitor glow. End on concentrated face to match to proud graduation face."
+    }
+  },
+  {
+    "index": 4,
+    "name": "05-graduation",
+    "params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "generate_audio": false,
+      "count": 1,
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "932d5731-b8f0-439c-b43d-6bfddce7d773"
+        }
+      ],
+      "prompt": "THE JOURNEY OF AN ENGINEER, a single coherent premium stylized 3D animated short film. Animate the supplied scene reference faithfully; same protagonist facial geometry, eyes, eyebrows, nose, warm medium-brown skin, swept black hair, clothing and age throughout this shot. Reference image is absolute visual identity and environment source. Natural human animation, grounded feet, subtle breathing, accurate hands, coherent cloth inertia, physically realistic light and shadows. Smooth controlled camera acceleration/deceleration, restrained depth of field. No face morphing, costume changes, geometry warping, extra fingers, sudden jumps, logos, watermark, captions or generated title text. No dialogue or audio. Age 23. Black graduation gown, holds blank degree certificate firmly with both hands, proud emotional smile, slowly shifts gaze from camera toward university building. Gown moves gently in breeze, golden-hour rim lighting. Camera smoothly pulls back and rises a little to reveal campus architecture. Late in shot align rectilinear university facade prominently for an architectural match dissolve into modern corporate office. No certificate lettering or logos."
+    }
+  },
+  {
+    "index": 5,
+    "name": "06-professional",
+    "params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 7,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "generate_audio": false,
+      "count": 1,
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "bccb0e9c-4549-4a9e-8eaa-a677426ee00e"
+        }
+      ],
+      "prompt": "THE JOURNEY OF AN ENGINEER, a single coherent premium stylized 3D animated short film. Animate the supplied scene reference faithfully; same protagonist facial geometry, eyes, eyebrows, nose, warm medium-brown skin, swept black hair, clothing and age throughout this shot. Reference image is absolute visual identity and environment source. Natural human animation, grounded feet, subtle breathing, accurate hands, coherent cloth inertia, physically realistic light and shadows. Smooth controlled camera acceleration/deceleration, restrained depth of field. No face morphing, costume changes, geometry warping, extra fingers, sudden jumps, logos, watermark, captions or generated title text. No dialogue or audio. Age 23 software engineer in Bengaluru corporate office, same neutral shirt. Natural subtle typing on external keyboard, thoughtful glances between dual monitors, confident professional concentration. Slow cinematic push from over-shoulder three-quarter angle toward engineer and screens, daylight glass office and green city skyline coherent. At end camera approaches code monitor and code gives way to coherent neural-network lines and mathematical diagram, screen glow cools subtly for match transition to night research. No company branding, fake logos, talking or random glyphs."
+    }
+  },
+  {
+    "index": 6,
+    "name": "07-research",
+    "params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "generate_audio": false,
+      "count": 1,
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "9b2779f0-75f2-4cb9-b8fa-98fb9d874f8f"
+        }
+      ],
+      "prompt": "THE JOURNEY OF AN ENGINEER, a single coherent premium stylized 3D animated short film. Animate the supplied scene reference faithfully; same protagonist facial geometry, eyes, eyebrows, nose, warm medium-brown skin, swept black hair, clothing and age throughout this shot. Reference image is absolute visual identity and environment source. Natural human animation, grounded feet, subtle breathing, accurate hands, coherent cloth inertia, physically realistic light and shadows. Smooth controlled camera acceleration/deceleration, restrained depth of field. No face morphing, costume changes, geometry warping, extra fingers, sudden jumps, logos, watermark, captions or generated title text. No dialogue or audio. Age 23 at personal nighttime AI research workstation, same neutral shirt. Types code, pauses thoughtfully, studies Transformer attention diagram and training curves, small determined expression of intellectual excitement, resumes typing. Camera makes a very slow restrained side arc revealing existing three monitors and GPU tower before returning toward his focused face. Preserve actual reference screen layouts and coherent code, Transformer layers, loss curves and GPU schematics; screens mostly stable, no scrambled flashy graphics. Blue glow mixed with warm lamp and subtle GPU illumination. No exaggerated sci-fi holograms."
+    }
+  },
+  {
+    "index": 7,
+    "name": "08-builder",
+    "params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "generate_audio": false,
+      "count": 1,
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "9b2779f0-75f2-4cb9-b8fa-98fb9d874f8f"
+        }
+      ],
+      "prompt": "THE JOURNEY OF AN ENGINEER, a single coherent premium stylized 3D animated short film. Animate the supplied scene reference faithfully; same protagonist facial geometry, eyes, eyebrows, nose, warm medium-brown skin, swept black hair, clothing and age throughout this shot. Reference image is absolute visual identity and environment source. Natural human animation, grounded feet, subtle breathing, accurate hands, coherent cloth inertia, physically realistic light and shadows. Smooth controlled camera acceleration/deceleration, restrained depth of field. No face morphing, costume changes, geometry warping, extra fingers, sudden jumps, logos, watermark, captions or generated title text. No dialogue or audio. Age 23, same nighttime AI research room and outfit. Begin seated as reference. He naturally stops typing, rises smoothly from chair, stands beside workstation with confident curiosity, looking toward monitor. Camera slowly glides past him toward central screen. Monitors show coherent engineering project diagrams and AI experiments. In final 1.5 seconds central monitor fills frame and dissolves into clean dark navy cinematic background, very subtle sparse floating particles and soft glow near edges. Final frame has completely clean empty negative space across center for a later website title overlay. DO NOT render any title or text. No face morphing, abrupt jumps or spontaneous props."
+    }
+  }
+]

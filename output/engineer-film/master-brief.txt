@@ -1,0 +1,237 @@
+# MASTER CINEMATIC VIDEO PROMPT — THE JOURNEY OF AN ENGINEER
+
+Create a premium, emotionally engaging, stylized 3D animated short film showing the life journey of one Indian boy growing from childhood into a 23-year-old software engineer and AI researcher.
+
+The entire film must feel like one continuous cinematic story, produced by a world-class animation studio.
+
+FORMAT:
+- Cinematic widescreen 16:9
+- Premium stylized 3D animated feature-film aesthetic
+- Beautiful environmental storytelling
+- Physically realistic lighting and shadows
+- Natural character animation
+- Smooth cinematic camera movements
+- Emotional storytelling
+- High-quality materials, textures and details
+- Consistent protagonist identity throughout
+
+IMPORTANT CHARACTER CONSISTENCY:
+
+There is only ONE main protagonist.
+
+Use the supplied character references as the identity source.
+
+Preserve his recognizable eyes, eyebrows, nose, skin tone, hairstyle and facial identity throughout the story.
+
+His appearance must evolve naturally with age:
+- Childhood: 8-year-old Indian schoolboy.
+- College: 20–21-year-old Indian engineering student.
+- Present: 23-year-old Indian software and AI engineer.
+
+Never randomly change his face, ethnicity, hairstyle or physical identity.
+
+---
+
+SCENE 1 — THE BEGINNING: CHILDHOOD
+
+Duration: approximately 6 seconds.
+
+Open with a beautiful cinematic wide shot of a peaceful Indian residential neighborhood in the early morning.
+
+Golden sunlight passes through trees. Birds fly in the distance. A young Indian schoolboy walks towards school carrying his navy-blue backpack.
+
+He wears a light-blue school shirt, navy trousers and black school shoes.
+
+Camera follows him from behind with a smooth cinematic tracking movement.
+
+His backpack gently moves as he walks. Trees sway in the morning breeze.
+
+The atmosphere should feel innocent, nostalgic and full of possibility.
+
+Transition: The camera follows the boy towards his home after school.
+
+SCENE 2 — THE FIRST LOVE: VIDEO GAMES
+
+Duration: approximately 6 seconds.
+
+Show the same 8-year-old boy sitting at his computer desk in his cozy childhood bedroom.
+
+He is enthusiastically playing video games.
+
+The monitor casts a beautiful blue glow on his face.
+
+His fingers move naturally on the keyboard and mouse. His eyes follow the screen. He smiles with excitement.
+
+Camera slowly pushes towards his face, then moves towards the computer monitor.
+
+The colorful gaming screen fills the entire frame.
+
+TRANSITION:
+
+The gaming visuals gradually transform into programming code.
+
+The colorful screen becomes a professional coding interface.
+
+Use this as a visual metaphor for the beginning of his interest in technology.
+
+SCENE 3 — ENGINEERING COLLEGE
+
+Duration: approximately 7 seconds.
+
+Reveal the older 20-year-old version of the same protagonist.
+
+He is now walking through a beautiful Indian engineering college campus carrying his backpack.
+
+Show academic buildings, trees, pathways and students in the distant background.
+
+Use a smooth cinematic rear tracking shot.
+
+Transition into a computer science laboratory.
+
+Show him sitting at a computer, seriously learning programming.
+
+He types on his laptop, studies the screen, pauses to think and continues coding.
+
+Camera slowly moves from an over-the-shoulder view to a three-quarter view of his focused face.
+
+The mood should communicate curiosity, ambition and the transformation from a child who loved computers into a student who wants to understand them.
+
+SCENE 4 — GRADUATION: A MILESTONE
+
+Duration: approximately 6 seconds.
+
+Show the same protagonist at age 23, wearing a black graduation gown on his university campus.
+
+He holds his degree certificate and looks towards the university building with a proud, emotional smile.
+
+Golden-hour sunlight illuminates the scene.
+
+The camera slowly pulls backwards and upwards, revealing the university architecture.
+
+The graduation gown moves gently in the breeze.
+
+The emotional feeling should be achievement, gratitude and the beginning of a new chapter.
+
+TRANSITION:
+
+The university building gradually transforms into a sophisticated modern corporate office building.
+
+Use a seamless architectural match transition.
+
+SCENE 5 — PROFESSIONAL LIFE: SOFTWARE ENGINEER
+
+Duration: approximately 7 seconds.
+
+Reveal the same 23-year-old protagonist working in a sophisticated modern corporate office in Bengaluru.
+
+He is a professional software engineer working at NatWest.
+
+He wears smart casual professional clothing.
+
+Show him sitting at his workstation with dual monitors, typing code and studying technical information.
+
+The office should have modern glass architecture, sophisticated workstations and natural daylight.
+
+Camera slowly moves towards him from an over-the-shoulder angle.
+
+Show his focused expression and natural interaction with the computer.
+
+Communicate the feeling of achieving a professional milestone and entering the real engineering world.
+
+Do not generate fake company logos or illegible company branding.
+
+TRANSITION:
+
+The camera slowly pushes towards his computer monitor.
+
+Programming code transforms into neural network visualizations and mathematical diagrams.
+
+The office environment gradually transitions into a personal late-night AI research workstation.
+
+SCENE 6 — BEYOND THE JOB: AI AND RESEARCH
+
+Duration: approximately 8 seconds.
+
+Show the same protagonist working late at night at his personal engineering workstation.
+
+This is no longer the corporate office.
+
+His workspace contains:
+- Multiple monitors.
+- Powerful GPU workstation.
+- Mechanical keyboard.
+- Technical books.
+- Research notebooks.
+- Computer science diagrams.
+
+His monitors display sophisticated technical visualizations:
+
+- Transformer architecture.
+- Attention mechanisms.
+- Neural networks.
+- Large language model diagrams.
+- GPU architecture.
+- Machine learning training.
+- Mathematical equations.
+- Programming code.
+
+He types code, pauses to think, studies a technical diagram and continues experimenting.
+
+Camera slowly moves around his workstation, revealing the different monitors and finally returning to his focused face.
+
+Blue monitor illumination mixes with warm desk lighting.
+
+The mood should communicate curiosity, deep learning, experimentation and a desire to understand technology at a fundamental level.
+
+SCENE 7 — THE BUILDER: THE NEXT CHAPTER
+
+Duration: approximately 6 seconds.
+
+Show the protagonist standing in front of his workstation.
+
+The camera slowly moves towards him.
+
+His monitors show different engineering projects, AI experiments and technical visualizations.
+
+He looks towards the screen with confidence and curiosity.
+
+The camera moves past him towards the computer monitor.
+
+The monitor gradually fills the entire frame.
+
+The final frame becomes a clean, dark cinematic background with subtle particles and soft lighting.
+
+Leave clean negative space in the centre for the website to display:
+
+"THE JOURNEY CONTINUES."
+
+Then transition into the next section of the portfolio website.
+
+---
+
+GLOBAL CINEMATIC DIRECTION
+
+The complete film must have:
+
+1. Consistent character identity across all ages.
+2. Natural and believable character movement.
+3. Smooth camera tracking, dolly, push-in and pull-back movements.
+4. Beautiful cinematic environmental lighting.
+5. Carefully designed transitions between chapters.
+6. Emotional progression from childhood innocence to professional ambition.
+7. Premium stylized 3D animation quality.
+8. No random character changes.
+9. No distorted hands or faces.
+10. No unnecessary futuristic holograms or exaggerated sci-fi effects.
+
+IMPORTANT STORYTELLING PRINCIPLE:
+
+This is not a random collection of animated scenes.
+
+It is one person's journey.
+
+A child who loved computers grows into an engineering student, becomes a professional software engineer and continues exploring artificial intelligence, research and technology.
+
+The final feeling should be:
+
+"He didn't stop learning when he got the job. That was only the beginning."
